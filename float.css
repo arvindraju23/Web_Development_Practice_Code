@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    max-width: 900;
+    width: 90%;
+
+}
+#box{
+    float: right;
+    margin: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px ;
+    background-color: aqua;
+    padding: lem;
+}
+.special{
+    background-color: rgb(184, 51, 80);
+    padding:15px ;
+    color: white;
+}
+.cleared{
+    clear: right;
+    background-color: greenyellow;
+    border: 100px;
+    color: brown;
+}
